@@ -1,0 +1,21 @@
+# Pliki konfiguracyjne z danymi wrażliwymi
+config.properties
+
+# Pliki cookies
+cookies.dat
+
+# Pliki kompilacji Java
+*.class
+
+# Pliki tymczasowe
+*.tmp
+*.log
+
+# Pliki IDE
+.idea/
+.vscode/
+*.iml
+
+# Pliki systemowe
+Thumbs.db
+.DS_Store
